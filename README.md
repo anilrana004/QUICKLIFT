@@ -49,8 +49,8 @@ EXPO_PUBLIC_GOOGLE_MAPS_API_KEY=your_google_maps_api_key
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/anilrana004/Uber-Clone.git
-cd Uber-Clone
+](https://github.com/anilrana004/QUICKLIFT.git)
+cd QUICKLIFT
 ```
 
 2. **Install dependencies**

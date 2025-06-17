@@ -1,6 +1,6 @@
-# Uber Clone
+# QUICKLIFT
 
-A full-stack Uber Clone Application built with React Native and Expo.
+A full-stack QUICKLIFT Application built with React Native and Expo.
 
 ## Prerequisites
 
